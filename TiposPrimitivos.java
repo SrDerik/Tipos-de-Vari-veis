@@ -5,8 +5,8 @@
 package com.mycompany.tiposprimitivos;
 
 /**
- *
- * @author FATEC ZONA LESTE
+ *  Este é o meu primeiro algoritmo
+ * @author D3
  */
 public class TiposPrimitivos {
 
@@ -15,13 +15,13 @@ public class TiposPrimitivos {
      */
     public static void main(String[] args) {
     // Lê o que está dentro da variável 
-       byte idademedia = 16;  // Recebe até 2 valores.                                                                                   ;Explicação do professor:"Armazena números pequenos (-128 a 127)"
-       short anodeNascimento =2009; //Pode ter até 4 casas(como um ano).                                                                        ;Explicação do professor:"Armazena valores um pouco maiores (-32.768 a 32.767)"
-       int acessosaoCanal =2600000 ; //Variável inteira recebe números inteiros.                                                    ;Explicação do professor:"Tipo Mais comum para números inteiros"
-       long acessosaoYoutube = 2490000000L; //Necessário'L' para valores longos                                                     ;Explicação do professor:
+       byte idademedia = 16;  // Recebe até 2 valores.                                                                                                                                                                  ;Explicação do professor:"Armazena números pequenos (-128 a 127)"
+       short anodeNascimento =2009; //Pode ter até 4 casas(como um ano).                                                                                                                                                ;Explicação do professor:"Armazena valores um pouco maiores (-32.768 a 32.767)"
+       int acessosaoCanal =2600000 ; //Variável inteira recebe números inteiros.                                                                                                                                        ;Explicação do professor:"Tipo Mais comum para números inteiros"
+       long acessosaoYoutube = 2490000000L; //Necessário'L' para valores longos                                                                                                                                         ;Explicação do professor:
        
-       float alturaMediadoTelespectador = 1.78f; //Pode colocar números com casa decimal, tem que usar o F, . e , (;)                                   ;Explicação do professor:"Necessário 'F' para indicar"
-       double pesoMediodoTelespectador = 56.4; //Pode colocar números com casa decimal e é mais preciso que o 'float', tem que o . e , (;)              ;Explicação do professor:"Mais preciso que float"
+       float alturaMediadoTelespectador = 1.78f; //Pode colocar números com casa decimal, tem que usar o F, . e , (;)                                                                                                   ;Explicação do professor:"Necessário 'F' para indicar"
+       double pesoMediodoTelespectador = 56.4; //Pode colocar números com casa decimal e é mais preciso que o 'float', tem que o . e , (;)                                                                              ;Explicação do professor:"Mais preciso que float"
        
        char inicialdoCanal = 'V'; //Armazena um único caractere, tem que usar aspas
        boolean canalAtivo = true; //Armazena dois valores, sendo eles verdadeiros ou falsos
