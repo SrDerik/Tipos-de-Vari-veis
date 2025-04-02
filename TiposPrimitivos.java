@@ -5,7 +5,7 @@
 package com.mycompany.tiposprimitivos;
 
 /**
- *  Este é o meu primeiro algoritmo
+ *    Este é o meu primeiro algoritmo
  * @author D3
  */
 public class TiposPrimitivos {
